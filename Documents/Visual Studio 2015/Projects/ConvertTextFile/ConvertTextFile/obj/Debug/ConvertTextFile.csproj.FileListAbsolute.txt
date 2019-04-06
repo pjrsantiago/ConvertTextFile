@@ -1,0 +1,26 @@
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\bin\Debug\ConvertTextFile.exe.config
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\bin\Debug\ConvertTextFile.exe
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\bin\Debug\ConvertTextFile.pdb
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\obj\Debug\ConvertTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\obj\Debug\ConvertTextFile.frmHome.resources
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\obj\Debug\ConvertTextFile.Properties.Resources.resources
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\obj\Debug\ConvertTextFile.csproj.GenerateResource.Cache
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\obj\Debug\ConvertTextFile.exe
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\obj\Debug\ConvertTextFile.pdb
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\bin\Debug\ConvertTextFile.exe.manifest
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\bin\Debug\ConvertTextFile.application
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\obj\Debug\ConvertTextFile.exe.manifest
+C:\Users\Paulo\AppData\Local\Temporary Projects\ConvertTextFile\obj\Debug\ConvertTextFile.application
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\bin\Debug\ConvertTextFile.exe.config
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\obj\Debug\ConvertTextFile.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\obj\Debug\ConvertTextFile.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\bin\Debug\ConvertTextFile.exe.manifest
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\bin\Debug\ConvertTextFile.application
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\bin\Debug\ConvertTextFile.exe
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\bin\Debug\ConvertTextFile.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\obj\Debug\ConvertTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\obj\Debug\ConvertTextFile.frmHome.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\obj\Debug\ConvertTextFile.Properties.Resources.resources
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\obj\Debug\ConvertTextFile.csproj.GenerateResource.Cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\obj\Debug\ConvertTextFile.exe.manifest
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\ConvertTextFile\ConvertTextFile\obj\Debug\ConvertTextFile.application
