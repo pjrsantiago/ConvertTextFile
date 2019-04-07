@@ -75,6 +75,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Afastamento.cs" />
+    <Compile Include="Classes\Dependente.cs" />
+    <Compile Include="Classes\Escala.cs" />
+    <Compile Include="Classes\Ferias.cs" />
+    <Compile Include="Classes\Ficha.cs" />
+    <Compile Include="Classes\Funcao.cs" />
+    <Compile Include="Classes\Registro.cs" />
+    <Compile Include="Classes\Salario.cs" />
+    <Compile Include="Classes\Sindicato.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
